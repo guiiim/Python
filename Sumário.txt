@@ -1,0 +1,4 @@
+Desafio Final Bootcamp Analista de Machine Learning - Desafio Final realizado no Bootcamp de Analista de Machine Learning do IGTI
+Desafio Mod Fundamentos - Desafio do primeiro módulo (Fundamentos) do Bootcamp de Analista de Machine Learning do IGTI
+Desafio Mod Modelos Preditivos Séries Temporais - Desafio do segundo módulo (Modelos Preditivos) do Bootcamp de Analista de Machine Learning do IGTI
+Desafio Mod Seleção de Modelos de Aprendizado de Máquina - Desafio do quarto módulo (Modelos de Aprendizado de Máquina) do Bootcamp de Analista de Machine Learning do IGTI

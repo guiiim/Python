@@ -1,0 +1,2 @@
+Cada pasta contém um projeto realizado em algum desafio ou treinamento.
+Os enunciados ou estão dispostos em um arquivo .pdf da instituição (todos direitos reservados à mesma) ou descritos em um arquivo "READ ME" na pasta.
