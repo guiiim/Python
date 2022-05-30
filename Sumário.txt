@@ -5,3 +5,4 @@ Desafio Mod Seleção de Modelos de Aprendizado de Máquina - Desafio do quarto 
 Teste de execução do Apache Spark - Exercício de aprendizado desenvolvido no cap11 do curso Engenharia de Dados com Hadoop e Spark da Data Science Academy
 Estudo sobre Regressões Lineares - Realizado no curso de Machie Learning da Data Science Academy
 Estudo sobre Classificação com Naive Bayes - Realizado no curso de Machie Learning da Data Science Academy
+Estudo sobre Decision Tree e Random Forest - Realizado no curso de Machie Learning da Data Science Academy
