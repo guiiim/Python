@@ -1,0 +1,15 @@
+Web Scrapping
+
+
+Projeto realizado para capturar indíce da Ibovespa e os 5 ativos com maior crescimento do dia.
+
+No projeto foi utilizado o selenium para fazer a automação do Google Chrome para abrir as páginas onde se encontram as informações e capturar os dados.
+
+Na manipulação de dados (leitura, organização e exportação) foi utilizado o pacote pandas e para os arquivos externos foi considerado arquivos em formato Excel (.xlsx).
+
+Qualquer dúvida, os sites de consulta para os comandos do selenium foram:
+https://selenium-python.readthedocs.io/ - https://www.selenium.dev/documentation/
+
+
+Criado por Guilherme Augusto Magalhães para fins acadêmicos em 10/10/2022
+Contato: guiiimagalhaes@gmail.com
